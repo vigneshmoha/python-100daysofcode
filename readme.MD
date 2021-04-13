@@ -10,3 +10,5 @@ Actual completion date: To be updated..
     Data types, numbers, operations, type conversions, f-strings
 #### Day 3 - Treasure Island
     Conditional statements, logical operators, code blocks and scope
+#### Day 4 - Rock Paper Scissors
+    Randomisation and Python lists

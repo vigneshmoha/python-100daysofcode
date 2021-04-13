@@ -1,3 +1,11 @@
+'''
+PEMDAS - Parentheses, Exponents, Multiplication, Division, Addition, Subtraction
+()
+**
+* / left to right
++ - left to right
+'''
+
 print("Welcome to the Tip calculator.")
 
 currency = "Rs."

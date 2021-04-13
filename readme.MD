@@ -8,7 +8,7 @@ Actual completion date: To be updated..
     Printing, Commenting, Debugging, String manipulation and variables
 #### Day 2 - Tip calculator :white_check_mark:
     Data types, numbers, operations, type conversions, f-strings
-#### Day 3 - Treasure Island
+#### Day 3 - Treasure Island :white_check_mark:
     Conditional statements, logical operators, code blocks and scope
 #### Day 4 - Rock Paper Scissors
     Randomisation and Python lists

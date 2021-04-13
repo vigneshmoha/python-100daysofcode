@@ -10,5 +10,7 @@ Actual completion date: To be updated..
     Data types, numbers, operations, type conversions, f-strings
 #### Day 3 - Treasure Island :white_check_mark:
     Conditional statements, logical operators, code blocks and scope
-#### Day 4 - Rock Paper Scissors
+#### Day 4 - Rock Paper Scissors :white_check_mark:
     Randomisation and Python lists
+#### Day 5 - Password generator
+    For loops, range and code blocks

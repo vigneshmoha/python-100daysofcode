@@ -14,5 +14,6 @@ Actual completion date: To be updated..
     Randomisation and Python lists
 #### Day 5 - Password generator :white_check_mark:
     For loops, range and code blocks
-#### Day 6 - Escaping the maze
+#### Day 6 - Escaping the maze :white_check_mark:
     Functions, code blocks and while loops
+#### Day 7 - Hangman Project

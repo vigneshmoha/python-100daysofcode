@@ -12,5 +12,7 @@ Actual completion date: To be updated..
     Conditional statements, logical operators, code blocks and scope
 #### Day 4 - Rock Paper Scissors :white_check_mark:
     Randomisation and Python lists
-#### Day 5 - Password generator
+#### Day 5 - Password generator :white_check_mark:
     For loops, range and code blocks
+#### Day 6 - Escaping the maze
+    Functions, code blocks and while loops

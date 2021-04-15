@@ -16,4 +16,6 @@ Actual completion date: To be updated..
     For loops, range and code blocks
 #### Day 6 - Escaping the maze :white_check_mark:
     Functions, code blocks and while loops
-#### Day 7 - Hangman Project
+#### Day 7 - Hangman Project :white_check_mark:
+#### Day 8 - Caeser Cipher
+    Functions with input

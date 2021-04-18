@@ -17,5 +17,7 @@ Actual completion date: To be updated..
 #### Day 6 - Escaping the maze :white_check_mark:
     Functions, code blocks and while loops
 #### Day 7 - Hangman Project :white_check_mark:
-#### Day 8 - Caeser Cipher
+#### Day 8 - Caeser Cipher :white_check_mark:
     Functions with input
+#### Day 9 - Secret Auction Program
+    Dictionaries & Nesting
